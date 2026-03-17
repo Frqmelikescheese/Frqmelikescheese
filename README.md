@@ -1,4 +1,4 @@
-<h1>Hey, I'm Frqme ⚡ </h1>
+<h1>Hey, I'm Frqme ⚡ Frqme</h1>
 <h3>15yo Systems Dev & Minecraft Modder | Creator of Galaxy Editor & OpenMC | Building the future of Minecraft tooling</h3>
 
 ---
@@ -45,8 +45,8 @@
 <h3>GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Frqme&show_icons=undefined&theme=tokyonight&count_private=true" alt="Frqme's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frqme&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frqme&show_icons=undefined&theme=cobalt&count_private=true" alt="Frqme's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frqme&layout=compact&theme=cobalt" alt="Top Langs" />
 </p>
 </div>
 
