@@ -1,5 +1,5 @@
-<h1>Greetings, Traveler of the Source Code! 🌌 Frqme</h1>
-<h3>15-year-old Systems & Minecraft Developer | Building Galaxy Editor & High-Performance Tools</h3>
+<h1>Hey, I'm Frqme ⚡ Frqme</h1>
+<h3>15yo Systems Dev & Minecraft Modder | Creator of Galaxy Editor & OpenMC | Building the future of Minecraft tooling</h3>
 
 ---
 
@@ -15,13 +15,13 @@
     <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c&theme=dark" />
@@ -30,16 +30,13 @@
     <img src="https://skillicons.dev/icons?i=glsl&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=shell&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=minecraft&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=neovim&theme=dark" />
   </a>
 </p>
 </div>
@@ -48,8 +45,8 @@
 <h3>GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Frqmelikescheese&show_icons=undefined&theme=tokyonight&count_private=true" alt="Frqmelikescheese's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frqmelikescheese&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frqme&show_icons=undefined&theme=tokyonight&count_private=true" alt="Frqme's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frqme&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 </div>
 
