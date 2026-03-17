@@ -1,4 +1,4 @@
-<h1>Hey, I'm Frqme ⚡ Frqme</h1>
+<h1>Hey, I'm Frqme ⚡ </h1>
 <h3>15yo Systems Dev & Minecraft Modder | Creator of Galaxy Editor & OpenMC | Building the future of Minecraft tooling</h3>
 
 ---
